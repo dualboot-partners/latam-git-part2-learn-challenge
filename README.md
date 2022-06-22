@@ -4,7 +4,9 @@
 
 In this lesson we've seen how to undo changes / commits so we will now do some exercises to test these new skills.
 
-1.  Fork this [repository](https://github.com/djabif/git-challenge-part2)
+**Please answer all the questions in the `README.md` of your project below each of them.**
+
+1.  Fork this [repository](https://github.com/dualboot-partners/git-challenge-part2)
 
 2.  Create a new branch "feature-a"
 
@@ -16,7 +18,7 @@ In this lesson we've seen how to undo changes / commits so we will now do some e
 
     d. Push your changes.
 
-3.  a. Change anything from index.html and commit. `(commit 3)`
+3.  a. Change anything from `index.html` and commit. `(commit 3)`
 
     b. Change another thing from index.html and commit. `(commit 4)`
 
