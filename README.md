@@ -30,4 +30,4 @@ In this lesson we've seen how to undo changes / commits so we will now do some e
 
 5.  Push everything and merge your branch to `main`.
 
-6.  Now you need to undo your `commit 2`. Remember that all your previous commits are now part of the `main` branch which is shared with all your coworkers so you should be aware of the command you will use here. What command would you use and why?
+6.  Now you need to undo your `commit 3`. Remember that all your previous commits are now part of the `main` branch which is shared with all your coworkers so you should be aware of the command you will use here. What command would you use and why?
