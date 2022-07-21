@@ -6,7 +6,8 @@ In this lesson we've seen how to undo changes / commits so we will now do some e
 
 Start by cloning this repository on your local machine and pushing it to a new repository on your github account. 
 
-Then follow the instructions given below and once you are done, copy your repository URL into the box provided on the learning platform.
+Follow the instructions given below and once you are done, create a PR from `feature-a` to `main`. 
+In the comments of this PR add the answers to the questions asked below (for example: "1.c- your answer"). Then copy the URL of this PR into the box provided on the learning platform.
 
 **Please answer all the questions in your project's `README.md` below each one.**
 
@@ -33,8 +34,7 @@ Then follow the instructions given below and once you are done, copy your reposi
 
     b. Change another thing from index.html and commit. `(commit 4)`
 
-    c. You have realized that you introduced a bug with your `commit 1` so you want to undo the entire commit. What command would you use and why?
-
+    c. You have realized that you introduced a bug with your `commit 1` so you want to undo the entire commit. What command would you use and why?.
 
 3.  
     a. Change anything from `index.html` and commit. `(commit 5)`
