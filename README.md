@@ -9,8 +9,6 @@ Start by cloning this repository on your local machine and pushing it to a new r
 Follow the instructions given below and once you are done, create a PR from `feature-a` to `main`. 
 In the comments of this PR add the answers to the questions asked below (for example: "1.c- your answer"). Then copy the URL of this PR into the box provided on the learning platform.
 
-**Please answer all the questions in your project's `README.md` below each one.**
-
 **All code changes must be made to the `index.html` file.**
 
 
