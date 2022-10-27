@@ -1,18 +1,18 @@
-# Git challenge
+# Git challenge - Part 2
 
-## Part 2
+## Instructions
 
 In this lesson we've seen how to undo changes / commits so we will now do some exercises to test these new skills.
 
 Start by cloning this repository on your local machine and pushing it to a new repository on your github account. 
 
 Follow the instructions given below and once you are done, create a PR from `feature-a` to `main`. 
-In the comments of this PR add the answers to the questions asked below (for example: "1.c- your answer"). Then copy the URL of this PR into the box provided on the learning platform.
+In the comments of this PR add the **answers to the questions asked below** (for example: "1.c- your answer"). Then copy the URL of this PR into the box provided on the learning platform.
 
 **All code changes must be made to the `index.html` file.**
 
 
-### Instructions
+## What you need to do
 
 
 1.  Create a new branch `feature-a`
@@ -30,12 +30,12 @@ In the comments of this PR add the answers to the questions asked below (for exa
    
     a. Change anything from `index.html` and commit. `(commit 3)`
 
-    b. Change another thing from index.html and commit. `(commit 4)`
+    b. Change another thing from the `index.html` and commit. `(commit 4)`
 
     c. You have realized that you introduced a bug with your `commit 1` so you want to undo the entire commit. What command would you use and why?.
 
 3.  
-    a. Change anything from `index.html` and commit. `(commit 5)`
+    a. Change anything from the `index.html` and commit. `(commit 5)`
 
     b. After examining your previous commit, you realized you made a typo in one word so you want to undo your last commit without losing the changes, fix the typo and re commit. What command would you use and why?
 
